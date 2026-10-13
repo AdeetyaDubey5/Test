@@ -1,0 +1,9 @@
+I have completed the login system of the application.
+
+
+Added a small feature in the same login functionality!! 
+Now i want to commit these changes in my last commit not a separate commit.
+
+
+git commit --amend
+git commit --amend -m "Updated login system"
