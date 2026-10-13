@@ -7,3 +7,5 @@ Now i want to commit these changes in my last commit not a separate commit.
 
 git commit --amend
 git commit --amend -m "Updated login system"
+
+Understood the lesson of branch ahead and behind 
